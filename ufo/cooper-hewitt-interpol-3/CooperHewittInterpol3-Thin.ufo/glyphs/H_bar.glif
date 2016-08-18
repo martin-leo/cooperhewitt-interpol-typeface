@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="620"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="100" y="408" type="line" smooth="yes"/>
+      <point x="100" y="584" type="line" smooth="yes"/>
+      <point x="520" y="584" type="line" smooth="yes"/>
+      <point x="520" y="408" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="520" y="780" type="line" smooth="yes"/>
+      <point x="520" y="604" type="line" smooth="yes"/>
+      <point x="100" y="604" type="line" smooth="yes"/>
+      <point x="100" y="780" type="line" smooth="yes"/>
+      <point x="80" y="780" type="line" smooth="yes"/>
+      <point x="80" y="0" type="line" smooth="yes"/>
+      <point x="100" y="0" type="line" smooth="yes"/>
+      <point x="100" y="388" type="line" smooth="yes"/>
+      <point x="520" y="388" type="line" smooth="yes"/>
+      <point x="520" y="0" type="line" smooth="yes"/>
+      <point x="540" y="0" type="line" smooth="yes"/>
+      <point x="540" y="780" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

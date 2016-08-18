@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.inf" format="1">
+  <advance width="300"/>
+  <unicode hex="E573"/>
+  <outline>
+    <contour>
+      <point x="285" y="-87" type="line" smooth="yes"/>
+      <point x="193" y="-87" type="line" smooth="yes"/>
+      <point x="243" y="-30" type="line" smooth="yes"/>
+      <point x="275" y="17" type="line" smooth="yes"/>
+      <point x="285" y="72" type="line" smooth="yes"/>
+      <point x="285" y="84" type="line" smooth="yes"/>
+      <point x="260" y="156" type="line" smooth="yes"/>
+      <point x="150" y="198" type="line" smooth="yes"/>
+      <point x="49" y="167" type="line" smooth="yes"/>
+      <point x="15" y="68" type="line" smooth="yes"/>
+      <point x="15" y="60" type="line" smooth="yes"/>
+      <point x="140" y="60" type="line" smooth="yes"/>
+      <point x="140" y="84" type="line" smooth="yes"/>
+      <point x="147" y="91" type="line" smooth="yes"/>
+      <point x="154" y="84" type="line" smooth="yes"/>
+      <point x="154" y="56" type="line" smooth="yes"/>
+      <point x="151" y="43" type="line" smooth="yes"/>
+      <point x="144" y="33" type="line" smooth="yes"/>
+      <point x="15" y="-117" type="line" smooth="yes"/>
+      <point x="15" y="-200" type="line" smooth="yes"/>
+      <point x="285" y="-200" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

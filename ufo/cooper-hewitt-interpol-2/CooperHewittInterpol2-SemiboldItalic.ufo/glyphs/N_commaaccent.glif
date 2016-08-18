@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncommaaccent" format="1">
+  <advance width="675"/>
+  <unicode hex="0145"/>
+  <outline>
+    <contour>
+      <point x="114" y="780" type="line" smooth="yes"/>
+      <point x="12" y="0" type="line" smooth="yes"/>
+      <point x="143" y="0" type="line" smooth="yes"/>
+      <point x="191" y="373" type="line" smooth="yes"/>
+      <point x="208" y="538" type="line" smooth="yes"/>
+      <point x="426" y="0" type="line" smooth="yes"/>
+      <point x="565" y="0" type="line" smooth="yes"/>
+      <point x="667" y="780" type="line" smooth="yes"/>
+      <point x="536" y="780" type="line" smooth="yes"/>
+      <point x="488" y="407" type="line" smooth="yes"/>
+      <point x="471" y="242" type="line" smooth="yes"/>
+      <point x="253" y="780" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="343" y="-47" type="line" smooth="yes"/>
+      <point x="221" y="-47" type="line" smooth="yes"/>
+      <point x="210" y="-133" type="line" smooth="yes"/>
+      <point x="279" y="-133" type="line" smooth="yes"/>
+      <point x="261" y="-155" type="line" smooth="yes"/>
+      <point x="231" y="-167" type="line" smooth="yes"/>
+      <point x="193" y="-170" type="line" smooth="yes"/>
+      <point x="186" y="-223" type="line" smooth="yes"/>
+      <point x="262" y="-211" type="line" smooth="yes"/>
+      <point x="312" y="-172" type="line" smooth="yes"/>
+      <point x="336" y="-103" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

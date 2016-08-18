@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="invertedbreve.cap" format="1">
+  <advance width="500"/>
+  <unicode hex="E427"/>
+  <outline>
+    <contour>
+      <point x="250" y="963" type="line" smooth="yes"/>
+      <point x="155" y="946" type="line" smooth="yes"/>
+      <point x="106" y="903" type="line" smooth="yes"/>
+      <point x="91" y="840" type="line" smooth="yes"/>
+      <point x="166" y="840" type="line" smooth="yes"/>
+      <point x="175" y="872" type="line" smooth="yes"/>
+      <point x="202" y="893" type="line" smooth="yes"/>
+      <point x="250" y="900" type="line" smooth="yes"/>
+      <point x="298" y="893" type="line" smooth="yes"/>
+      <point x="325" y="872" type="line" smooth="yes"/>
+      <point x="334" y="840" type="line" smooth="yes"/>
+      <point x="409" y="840" type="line" smooth="yes"/>
+      <point x="394" y="903" type="line" smooth="yes"/>
+      <point x="345" y="946" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

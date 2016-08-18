@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nacute" format="1">
+  <advance width="563"/>
+  <unicode hex="0144"/>
+  <outline>
+    <contour>
+      <point x="311" y="780" type="line" smooth="yes"/>
+      <point x="220" y="601" type="line" smooth="yes"/>
+      <point x="350" y="601" type="line" smooth="yes"/>
+      <point x="453" y="780" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="511" y="0" type="line" smooth="yes"/>
+      <point x="511" y="363" type="line" smooth="yes"/>
+      <point x="473" y="489" type="line" smooth="yes"/>
+      <point x="348" y="543" type="line" smooth="yes"/>
+      <point x="243" y="520" type="line" smooth="yes"/>
+      <point x="176" y="460" type="line" smooth="yes"/>
+      <point x="164" y="530" type="line" smooth="yes"/>
+      <point x="49" y="530" type="line" smooth="yes"/>
+      <point x="58" y="380" type="line" smooth="yes"/>
+      <point x="58" y="0" type="line" smooth="yes"/>
+      <point x="188" y="0" type="line" smooth="yes"/>
+      <point x="188" y="369" type="line" smooth="yes"/>
+      <point x="226" y="409" type="line" smooth="yes"/>
+      <point x="298" y="430" type="line" smooth="yes"/>
+      <point x="362" y="405" type="line" smooth="yes"/>
+      <point x="382" y="342" type="line" smooth="yes"/>
+      <point x="382" y="0" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

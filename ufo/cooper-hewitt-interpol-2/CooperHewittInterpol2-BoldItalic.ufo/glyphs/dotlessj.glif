@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessj" format="1">
+  <advance width="268"/>
+  <unicode hex="0237"/>
+  <outline>
+    <contour>
+      <point x="4" y="-6" type="line" smooth="yes"/>
+      <point x="-12" y="-51" type="line" smooth="yes"/>
+      <point x="-41" y="-72" type="line" smooth="yes"/>
+      <point x="-80" y="-77" type="line" smooth="yes"/>
+      <point x="-103" y="-76" type="line" smooth="yes"/>
+      <point x="-120" y="-73" type="line" smooth="yes"/>
+      <point x="-130" y="-70" type="line" smooth="yes"/>
+      <point x="-147" y="-200" type="line" smooth="yes"/>
+      <point x="-132" y="-205" type="line" smooth="yes"/>
+      <point x="-103" y="-211" type="line" smooth="yes"/>
+      <point x="-60" y="-213" type="line" smooth="yes"/>
+      <point x="46" y="-194" type="line" smooth="yes"/>
+      <point x="121" y="-134" type="line" smooth="yes"/>
+      <point x="160" y="-23" type="line" smooth="yes"/>
+      <point x="232" y="530" type="line" smooth="yes"/>
+      <point x="74" y="530" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

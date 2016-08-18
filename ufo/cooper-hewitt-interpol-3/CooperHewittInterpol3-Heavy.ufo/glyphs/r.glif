@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r" format="1">
+  <advance width="400"/>
+  <unicode hex="0072"/>
+  <outline>
+    <contour>
+      <point x="356" y="544" type="line" smooth="yes"/>
+      <point x="313" y="539" type="line" smooth="yes"/>
+      <point x="276" y="524" type="line" smooth="yes"/>
+      <point x="244" y="501" type="line" smooth="yes"/>
+      <point x="217" y="471" type="line" smooth="yes"/>
+      <point x="206" y="530" type="line" smooth="yes"/>
+      <point x="40" y="530" type="line" smooth="yes"/>
+      <point x="50" y="380" type="line" smooth="yes"/>
+      <point x="50" y="0" type="line" smooth="yes"/>
+      <point x="234" y="0" type="line" smooth="yes"/>
+      <point x="234" y="320" type="line" smooth="yes"/>
+      <point x="247" y="332" type="line" smooth="yes"/>
+      <point x="270" y="343" type="line" smooth="yes"/>
+      <point x="301" y="352" type="line" smooth="yes"/>
+      <point x="341" y="355" type="line" smooth="yes"/>
+      <point x="371" y="355" type="line" smooth="yes"/>
+      <point x="371" y="543" type="line" smooth="yes"/>
+      <point x="367" y="544" type="line" smooth="yes"/>
+      <point x="364" y="544" type="line" smooth="yes"/>
+      <point x="360" y="544" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

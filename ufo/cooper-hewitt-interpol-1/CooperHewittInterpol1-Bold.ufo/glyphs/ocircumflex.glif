@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflex" format="1">
+  <advance width="556"/>
+  <unicode hex="00F4"/>
+  <outline>
+    <contour>
+      <point x="278" y="123" type="line" smooth="yes"/>
+      <point x="210" y="156" type="line" smooth="yes"/>
+      <point x="188" y="247" type="line" smooth="yes"/>
+      <point x="188" y="283" type="line" smooth="yes"/>
+      <point x="210" y="374" type="line" smooth="yes"/>
+      <point x="278" y="407" type="line" smooth="yes"/>
+      <point x="347" y="374" type="line" smooth="yes"/>
+      <point x="368" y="283" type="line" smooth="yes"/>
+      <point x="368" y="247" type="line" smooth="yes"/>
+      <point x="347" y="156" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="206" y="596" type="line" smooth="yes"/>
+      <point x="278" y="678" type="line" smooth="yes"/>
+      <point x="350" y="596" type="line" smooth="yes"/>
+      <point x="488" y="596" type="line" smooth="yes"/>
+      <point x="354" y="780" type="line" smooth="yes"/>
+      <point x="202" y="780" type="line" smooth="yes"/>
+      <point x="68" y="596" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="278" y="-13" type="line" smooth="yes"/>
+      <point x="466" y="60" type="line" smooth="yes"/>
+      <point x="526" y="247" type="line" smooth="yes"/>
+      <point x="526" y="283" type="line" smooth="yes"/>
+      <point x="466" y="470" type="line" smooth="yes"/>
+      <point x="278" y="543" type="line" smooth="yes"/>
+      <point x="90" y="470" type="line" smooth="yes"/>
+      <point x="30" y="283" type="line" smooth="yes"/>
+      <point x="30" y="247" type="line" smooth="yes"/>
+      <point x="90" y="60" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odieresis" format="1">
+  <advance width="649"/>
+  <unicode hex="00D6"/>
+  <outline>
+    <contour>
+      <point x="442" y="930" type="line" smooth="yes"/>
+      <point x="363" y="930" type="line" smooth="yes"/>
+      <point x="363" y="860" type="line" smooth="yes"/>
+      <point x="442" y="860" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="285" y="930" type="line" smooth="yes"/>
+      <point x="206" y="930" type="line" smooth="yes"/>
+      <point x="206" y="860" type="line" smooth="yes"/>
+      <point x="285" y="860" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="321" y="54" type="line" smooth="yes"/>
+      <point x="214" y="87" type="line" smooth="yes"/>
+      <point x="151" y="189" type="line" smooth="yes"/>
+      <point x="131" y="370" type="line" smooth="yes"/>
+      <point x="131" y="410" type="line" smooth="yes"/>
+      <point x="151" y="591" type="line" smooth="yes"/>
+      <point x="214" y="693" type="line" smooth="yes"/>
+      <point x="321" y="726" type="line" smooth="yes"/>
+      <point x="328" y="726" type="line" smooth="yes"/>
+      <point x="435" y="693" type="line" smooth="yes"/>
+      <point x="498" y="591" type="line" smooth="yes"/>
+      <point x="518" y="410" type="line" smooth="yes"/>
+      <point x="518" y="370" type="line" smooth="yes"/>
+      <point x="498" y="189" type="line" smooth="yes"/>
+      <point x="435" y="87" type="line" smooth="yes"/>
+      <point x="328" y="54" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="324" y="-11" type="line" smooth="yes"/>
+      <point x="473" y="28" type="line" smooth="yes"/>
+      <point x="562" y="151" type="line" smooth="yes"/>
+      <point x="592" y="370" type="line" smooth="yes"/>
+      <point x="592" y="410" type="line" smooth="yes"/>
+      <point x="562" y="629" type="line" smooth="yes"/>
+      <point x="473" y="752" type="line" smooth="yes"/>
+      <point x="324" y="791" type="line" smooth="yes"/>
+      <point x="176" y="752" type="line" smooth="yes"/>
+      <point x="87" y="629" type="line" smooth="yes"/>
+      <point x="57" y="410" type="line" smooth="yes"/>
+      <point x="57" y="370" type="line" smooth="yes"/>
+      <point x="87" y="151" type="line" smooth="yes"/>
+      <point x="176" y="28" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

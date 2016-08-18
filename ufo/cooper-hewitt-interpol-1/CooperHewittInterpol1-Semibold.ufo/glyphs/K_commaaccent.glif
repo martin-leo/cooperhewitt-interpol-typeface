@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kcommaaccent" format="1">
+  <advance width="606"/>
+  <unicode hex="0136"/>
+  <outline>
+    <contour>
+      <point x="364" y="-47" type="line" smooth="yes"/>
+      <point x="242" y="-47" type="line" smooth="yes"/>
+      <point x="242" y="-133" type="line" smooth="yes"/>
+      <point x="311" y="-133" type="line" smooth="yes"/>
+      <point x="282" y="-165" type="line" smooth="yes"/>
+      <point x="230" y="-174" type="line" smooth="yes"/>
+      <point x="230" y="-223" type="line" smooth="yes"/>
+      <point x="331" y="-194" type="line" smooth="yes"/>
+      <point x="364" y="-103" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="195" y="780" type="line" smooth="yes"/>
+      <point x="61" y="780" type="line" smooth="yes"/>
+      <point x="61" y="0" type="line" smooth="yes"/>
+      <point x="195" y="0" type="line" smooth="yes"/>
+      <point x="195" y="230" type="line" smooth="yes"/>
+      <point x="274" y="342" type="line" smooth="yes"/>
+      <point x="432" y="0" type="line" smooth="yes"/>
+      <point x="581" y="0" type="line" smooth="yes"/>
+      <point x="359" y="463" type="line" smooth="yes"/>
+      <point x="581" y="780" type="line" smooth="yes"/>
+      <point x="419" y="780" type="line" smooth="yes"/>
+      <point x="195" y="435" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

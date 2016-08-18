@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ograve" format="1">
+  <advance width="544"/>
+  <unicode hex="00F2"/>
+  <outline>
+    <contour>
+      <point x="286" y="542" type="line" smooth="yes"/>
+      <point x="107" y="467" type="line" smooth="yes"/>
+      <point x="29" y="278" type="line" smooth="yes"/>
+      <point x="26" y="256" type="line" smooth="yes"/>
+      <point x="61" y="66" type="line" smooth="yes"/>
+      <point x="234" y="-12" type="line" smooth="yes"/>
+      <point x="414" y="63" type="line" smooth="yes"/>
+      <point x="491" y="252" type="line" smooth="yes"/>
+      <point x="494" y="274" type="line" smooth="yes"/>
+      <point x="459" y="464" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="236" y="76" type="line" smooth="yes"/>
+      <point x="141" y="125" type="line" smooth="yes"/>
+      <point x="127" y="256" type="line" smooth="yes"/>
+      <point x="130" y="278" type="line" smooth="yes"/>
+      <point x="180" y="407" type="line" smooth="yes"/>
+      <point x="284" y="454" type="line" smooth="yes"/>
+      <point x="379" y="405" type="line" smooth="yes"/>
+      <point x="393" y="274" type="line" smooth="yes"/>
+      <point x="390" y="252" type="line" smooth="yes"/>
+      <point x="340" y="123" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="177" y="780" type="line" smooth="yes"/>
+      <point x="253" y="607" type="line" smooth="yes"/>
+      <point x="355" y="607" type="line" smooth="yes"/>
+      <point x="287" y="780" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

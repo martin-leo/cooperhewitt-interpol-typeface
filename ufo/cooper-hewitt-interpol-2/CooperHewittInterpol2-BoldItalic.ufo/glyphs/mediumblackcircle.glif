@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mediumblackcircle" format="1">
+  <advance width="670"/>
+  <unicode hex="26AB"/>
+  <outline>
+    <contour>
+      <point x="57" y="265" type="line" smooth="yes"/>
+      <point x="95" y="124" type="line" smooth="yes"/>
+      <point x="194" y="25" type="line" smooth="yes"/>
+      <point x="335" y="-13" type="line" smooth="yes"/>
+      <point x="476" y="25" type="line" smooth="yes"/>
+      <point x="575" y="124" type="line" smooth="yes"/>
+      <point x="613" y="265" type="line" smooth="yes"/>
+      <point x="575" y="406" type="line" smooth="yes"/>
+      <point x="476" y="505" type="line" smooth="yes"/>
+      <point x="335" y="543" type="line" smooth="yes"/>
+      <point x="194" y="505" type="line" smooth="yes"/>
+      <point x="95" y="406" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

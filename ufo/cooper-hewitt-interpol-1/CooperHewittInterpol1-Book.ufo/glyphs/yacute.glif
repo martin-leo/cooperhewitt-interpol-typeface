@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacute" format="1">
+  <advance width="484"/>
+  <unicode hex="00FD"/>
+  <outline>
+    <contour>
+      <point x="303" y="780" type="line" smooth="yes"/>
+      <point x="213" y="614" type="line" smooth="yes"/>
+      <point x="285" y="614" type="line" smooth="yes"/>
+      <point x="379" y="780" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="249" y="97" type="line" smooth="yes"/>
+      <point x="98" y="530" type="line" smooth="yes"/>
+      <point x="23" y="530" type="line" smooth="yes"/>
+      <point x="213" y="20" type="line" smooth="yes"/>
+      <point x="130" y="-200" type="line" smooth="yes"/>
+      <point x="211" y="-200" type="line" smooth="yes"/>
+      <point x="286" y="20" type="line" smooth="yes"/>
+      <point x="476" y="530" type="line" smooth="yes"/>
+      <point x="401" y="530" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

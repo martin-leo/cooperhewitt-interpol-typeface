@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ncaron" format="1">
+  <advance width="580"/>
+  <unicode hex="0148"/>
+  <outline>
+    <contour>
+      <point x="483" y="0" type="line" smooth="yes"/>
+      <point x="530" y="358" type="line" smooth="yes"/>
+      <point x="524" y="453" type="line" smooth="yes"/>
+      <point x="475" y="519" type="line" smooth="yes"/>
+      <point x="375" y="543" type="line" smooth="yes"/>
+      <point x="309" y="532" type="line" smooth="yes"/>
+      <point x="252" y="503" type="line" smooth="yes"/>
+      <point x="206" y="460" type="line" smooth="yes"/>
+      <point x="206" y="530" type="line" smooth="yes"/>
+      <point x="65" y="530" type="line" smooth="yes"/>
+      <point x="55" y="381" type="line" smooth="yes"/>
+      <point x="5" y="0" type="line" smooth="yes"/>
+      <point x="163" y="0" type="line" smooth="yes"/>
+      <point x="210" y="358" type="line" smooth="yes"/>
+      <point x="233" y="380" type="line" smooth="yes"/>
+      <point x="268" y="399" type="line" smooth="yes"/>
+      <point x="310" y="407" type="line" smooth="yes"/>
+      <point x="348" y="399" type="line" smooth="yes"/>
+      <point x="367" y="374" type="line" smooth="yes"/>
+      <point x="369" y="335" type="line" smooth="yes"/>
+      <point x="325" y="0" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="136" y="780" type="line" smooth="yes"/>
+      <point x="246" y="596" type="line" smooth="yes"/>
+      <point x="398" y="596" type="line" smooth="yes"/>
+      <point x="556" y="780" type="line" smooth="yes"/>
+      <point x="415" y="780" type="line" smooth="yes"/>
+      <point x="332" y="697" type="line" smooth="yes"/>
+      <point x="271" y="780" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

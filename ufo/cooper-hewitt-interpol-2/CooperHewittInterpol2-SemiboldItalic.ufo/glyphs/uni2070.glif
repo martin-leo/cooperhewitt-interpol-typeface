@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2070" format="1">
+  <advance width="299"/>
+  <unicode hex="2070"/>
+  <outline>
+    <contour>
+      <point x="201" y="502" type="line" smooth="yes"/>
+      <point x="195" y="482" type="line" smooth="yes"/>
+      <point x="181" y="470" type="line" smooth="yes"/>
+      <point x="161" y="466" type="line" smooth="yes"/>
+      <point x="159" y="466" type="line" smooth="yes"/>
+      <point x="140" y="471" type="line" smooth="yes"/>
+      <point x="129" y="483" type="line" smooth="yes"/>
+      <point x="127" y="502" type="line" smooth="yes"/>
+      <point x="150" y="672" type="line" smooth="yes"/>
+      <point x="156" y="691" type="line" smooth="yes"/>
+      <point x="170" y="704" type="line" smooth="yes"/>
+      <point x="190" y="708" type="line" smooth="yes"/>
+      <point x="192" y="708" type="line" smooth="yes"/>
+      <point x="211" y="703" type="line" smooth="yes"/>
+      <point x="222" y="691" type="line" smooth="yes"/>
+      <point x="224" y="672" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="317" y="672" type="line" smooth="yes"/>
+      <point x="309" y="732" type="line" smooth="yes"/>
+      <point x="267" y="774" type="line" smooth="yes"/>
+      <point x="197" y="789" type="line" smooth="yes"/>
+      <point x="124" y="774" type="line" smooth="yes"/>
+      <point x="78" y="733" type="line" smooth="yes"/>
+      <point x="57" y="672" type="line" smooth="yes"/>
+      <point x="34" y="502" type="line" smooth="yes"/>
+      <point x="42" y="441" type="line" smooth="yes"/>
+      <point x="84" y="400" type="line" smooth="yes"/>
+      <point x="154" y="385" type="line" smooth="yes"/>
+      <point x="227" y="400" type="line" smooth="yes"/>
+      <point x="273" y="441" type="line" smooth="yes"/>
+      <point x="294" y="502" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

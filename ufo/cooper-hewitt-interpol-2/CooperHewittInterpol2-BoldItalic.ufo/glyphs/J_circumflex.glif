@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jcircumflex" format="1">
+  <advance width="537"/>
+  <unicode hex="0134"/>
+  <outline>
+    <contour>
+      <point x="377" y="780" type="line" smooth="yes"/>
+      <point x="309" y="252" type="line" smooth="yes"/>
+      <point x="293" y="178" type="line" smooth="yes"/>
+      <point x="265" y="139" type="line" smooth="yes"/>
+      <point x="219" y="127" type="line" smooth="yes"/>
+      <point x="176" y="141" type="line" smooth="yes"/>
+      <point x="159" y="187" type="line" smooth="yes"/>
+      <point x="162" y="266" type="line" smooth="yes"/>
+      <point x="8" y="266" type="line" smooth="yes"/>
+      <point x="4" y="234" type="line" smooth="yes"/>
+      <point x="12" y="100" type="line" smooth="yes"/>
+      <point x="80" y="16" type="line" smooth="yes"/>
+      <point x="217" y="-13" type="line" smooth="yes"/>
+      <point x="349" y="15" type="line" smooth="yes"/>
+      <point x="429" y="99" type="line" smooth="yes"/>
+      <point x="469" y="239" type="line" smooth="yes"/>
+      <point x="539" y="780" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="670" y="840" type="line" smooth="yes"/>
+      <point x="561" y="950" type="line" smooth="yes"/>
+      <point x="401" y="950" type="line" smooth="yes"/>
+      <point x="262" y="840" type="line" smooth="yes"/>
+      <point x="407" y="840" type="line" smooth="yes"/>
+      <point x="474" y="890" type="line" smooth="yes"/>
+      <point x="531" y="840" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

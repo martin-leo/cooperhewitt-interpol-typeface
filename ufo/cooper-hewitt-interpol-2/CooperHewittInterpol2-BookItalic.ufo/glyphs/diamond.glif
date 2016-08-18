@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="diamond" format="1">
+  <advance width="900"/>
+  <unicode hex="2666"/>
+  <outline>
+    <contour>
+      <point x="817" y="390" type="line" smooth="yes"/>
+      <point x="679" y="512" type="line" smooth="yes"/>
+      <point x="554" y="648" type="line" smooth="yes"/>
+      <point x="451" y="790" type="line" smooth="yes"/>
+      <point x="449" y="790" type="line" smooth="yes"/>
+      <point x="346" y="648" type="line" smooth="yes"/>
+      <point x="221" y="512" type="line" smooth="yes"/>
+      <point x="83" y="390" type="line" smooth="yes"/>
+      <point x="221" y="268" type="line" smooth="yes"/>
+      <point x="346" y="132" type="line" smooth="yes"/>
+      <point x="449" y="-10" type="line" smooth="yes"/>
+      <point x="451" y="-10" type="line" smooth="yes"/>
+      <point x="554" y="132" type="line" smooth="yes"/>
+      <point x="679" y="268" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

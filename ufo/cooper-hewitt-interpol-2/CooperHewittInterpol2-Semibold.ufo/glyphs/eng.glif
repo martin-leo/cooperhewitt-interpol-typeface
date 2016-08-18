@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eng" format="1">
+  <advance width="563"/>
+  <unicode hex="014B"/>
+  <outline>
+    <contour>
+      <point x="381" y="-13" type="line" smooth="yes"/>
+      <point x="371" y="-67" type="line" smooth="yes"/>
+      <point x="342" y="-93" type="line" smooth="yes"/>
+      <point x="296" y="-100" type="line" smooth="yes"/>
+      <point x="276" y="-99" type="line" smooth="yes"/>
+      <point x="256" y="-95" type="line" smooth="yes"/>
+      <point x="244" y="-92" type="line" smooth="yes"/>
+      <point x="244" y="-200" type="line" smooth="yes"/>
+      <point x="259" y="-205" type="line" smooth="yes"/>
+      <point x="286" y="-211" type="line" smooth="yes"/>
+      <point x="326" y="-213" type="line" smooth="yes"/>
+      <point x="423" y="-195" type="line" smooth="yes"/>
+      <point x="487" y="-136" type="line" smooth="yes"/>
+      <point x="511" y="-28" type="line" smooth="yes"/>
+      <point x="511" y="363" type="line" smooth="yes"/>
+      <point x="495" y="452" type="line" smooth="yes"/>
+      <point x="442" y="518" type="line" smooth="yes"/>
+      <point x="348" y="543" type="line" smooth="yes"/>
+      <point x="273" y="532" type="line" smooth="yes"/>
+      <point x="217" y="503" type="line" smooth="yes"/>
+      <point x="176" y="460" type="line" smooth="yes"/>
+      <point x="164" y="530" type="line" smooth="yes"/>
+      <point x="49" y="530" type="line" smooth="yes"/>
+      <point x="58" y="380" type="line" smooth="yes"/>
+      <point x="58" y="0" type="line" smooth="yes"/>
+      <point x="188" y="0" type="line" smooth="yes"/>
+      <point x="188" y="369" type="line" smooth="yes"/>
+      <point x="210" y="396" type="line" smooth="yes"/>
+      <point x="246" y="420" type="line" smooth="yes"/>
+      <point x="298" y="430" type="line" smooth="yes"/>
+      <point x="346" y="419" type="line" smooth="yes"/>
+      <point x="373" y="387" type="line" smooth="yes"/>
+      <point x="381" y="342" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

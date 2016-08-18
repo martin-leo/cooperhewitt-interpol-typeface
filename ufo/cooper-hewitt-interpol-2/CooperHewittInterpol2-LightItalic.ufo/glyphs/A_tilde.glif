@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Atilde" format="1">
+  <advance width="600"/>
+  <unicode hex="00C3"/>
+  <outline>
+    <contour>
+      <point x="351" y="750" type="line" smooth="yes"/>
+      <point x="433" y="249" type="line" smooth="yes"/>
+      <point x="136" y="249" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="325" y="790" type="line" smooth="yes"/>
+      <point x="-15" y="0" type="line" smooth="yes"/>
+      <point x="31" y="0" type="line" smooth="yes"/>
+      <point x="120" y="211" type="line" smooth="yes"/>
+      <point x="439" y="211" type="line" smooth="yes"/>
+      <point x="475" y="0" type="line" smooth="yes"/>
+      <point x="517" y="0" type="line" smooth="yes"/>
+      <point x="385" y="790" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="477" y="932" type="line" smooth="yes"/>
+      <point x="469" y="903" type="line" smooth="yes"/>
+      <point x="453" y="886" type="line" smooth="yes"/>
+      <point x="431" y="881" type="line" smooth="yes"/>
+      <point x="394" y="897" type="line" smooth="yes"/>
+      <point x="356" y="926" type="line" smooth="yes"/>
+      <point x="307" y="942" type="line" smooth="yes"/>
+      <point x="268" y="933" type="line" smooth="yes"/>
+      <point x="239" y="905" type="line" smooth="yes"/>
+      <point x="223" y="858" type="line" smooth="yes"/>
+      <point x="259" y="858" type="line" smooth="yes"/>
+      <point x="268" y="887" type="line" smooth="yes"/>
+      <point x="283" y="904" type="line" smooth="yes"/>
+      <point x="305" y="909" type="line" smooth="yes"/>
+      <point x="342" y="893" type="line" smooth="yes"/>
+      <point x="381" y="864" type="line" smooth="yes"/>
+      <point x="430" y="848" type="line" smooth="yes"/>
+      <point x="469" y="857" type="line" smooth="yes"/>
+      <point x="498" y="885" type="line" smooth="yes"/>
+      <point x="513" y="932" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

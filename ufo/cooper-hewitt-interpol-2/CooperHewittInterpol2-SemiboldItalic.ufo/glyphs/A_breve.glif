@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreve" format="1">
+  <advance width="631"/>
+  <unicode hex="0102"/>
+  <outline>
+    <contour>
+      <point x="352" y="631" type="line" smooth="yes"/>
+      <point x="393" y="295" type="line" smooth="yes"/>
+      <point x="222" y="295" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="277" y="784" type="line" smooth="yes"/>
+      <point x="-31" y="0" type="line" smooth="yes"/>
+      <point x="116" y="0" type="line" smooth="yes"/>
+      <point x="182" y="178" type="line" smooth="yes"/>
+      <point x="402" y="178" type="line" smooth="yes"/>
+      <point x="423" y="0" type="line" smooth="yes"/>
+      <point x="564" y="0" type="line" smooth="yes"/>
+      <point x="462" y="784" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="375" y="826" type="line" smooth="yes"/>
+      <point x="481" y="843" type="line" smooth="yes"/>
+      <point x="540" y="888" type="line" smooth="yes"/>
+      <point x="563" y="950" type="line" smooth="yes"/>
+      <point x="469" y="950" type="line" smooth="yes"/>
+      <point x="457" y="924" type="line" smooth="yes"/>
+      <point x="429" y="907" type="line" smooth="yes"/>
+      <point x="383" y="901" type="line" smooth="yes"/>
+      <point x="338" y="907" type="line" smooth="yes"/>
+      <point x="315" y="924" type="line" smooth="yes"/>
+      <point x="311" y="950" type="line" smooth="yes"/>
+      <point x="221" y="950" type="line" smooth="yes"/>
+      <point x="227" y="888" type="line" smooth="yes"/>
+      <point x="274" y="843" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

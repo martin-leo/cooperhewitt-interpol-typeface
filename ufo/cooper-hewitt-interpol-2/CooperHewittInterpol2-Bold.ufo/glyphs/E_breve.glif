@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ebreve" format="1">
+  <advance width="573"/>
+  <unicode hex="0114"/>
+  <outline>
+    <contour>
+      <point x="56" y="780" type="line" smooth="yes"/>
+      <point x="56" y="0" type="line" smooth="yes"/>
+      <point x="533" y="0" type="line" smooth="yes"/>
+      <point x="533" y="140" type="line" smooth="yes"/>
+      <point x="218" y="140" type="line" smooth="yes"/>
+      <point x="218" y="328" type="line" smooth="yes"/>
+      <point x="483" y="328" type="line" smooth="yes"/>
+      <point x="483" y="468" type="line" smooth="yes"/>
+      <point x="218" y="468" type="line" smooth="yes"/>
+      <point x="218" y="640" type="line" smooth="yes"/>
+      <point x="533" y="640" type="line" smooth="yes"/>
+      <point x="533" y="780" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="296" y="825" type="line" smooth="yes"/>
+      <point x="409" y="842" type="line" smooth="yes"/>
+      <point x="464" y="887" type="line" smooth="yes"/>
+      <point x="479" y="950" type="line" smooth="yes"/>
+      <point x="370" y="950" type="line" smooth="yes"/>
+      <point x="363" y="928" type="line" smooth="yes"/>
+      <point x="339" y="915" type="line" smooth="yes"/>
+      <point x="296" y="910" type="line" smooth="yes"/>
+      <point x="253" y="915" type="line" smooth="yes"/>
+      <point x="229" y="928" type="line" smooth="yes"/>
+      <point x="222" y="950" type="line" smooth="yes"/>
+      <point x="113" y="950" type="line" smooth="yes"/>
+      <point x="128" y="887" type="line" smooth="yes"/>
+      <point x="183" y="842" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

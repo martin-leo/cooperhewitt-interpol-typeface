@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohungarumlaut" format="1">
+  <advance width="526"/>
+  <unicode hex="0151"/>
+  <outline>
+    <contour>
+      <point x="292" y="780" type="line" smooth="yes"/>
+      <point x="202" y="620" type="line" smooth="yes"/>
+      <point x="224" y="620" type="line" smooth="yes"/>
+      <point x="314" y="780" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="392" y="780" type="line" smooth="yes"/>
+      <point x="302" y="620" type="line" smooth="yes"/>
+      <point x="324" y="620" type="line" smooth="yes"/>
+      <point x="414" y="780" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="263" y="14" type="line" smooth="yes"/>
+      <point x="123" y="79" type="line" smooth="yes"/>
+      <point x="75" y="255" type="line" smooth="yes"/>
+      <point x="75" y="275" type="line" smooth="yes"/>
+      <point x="123" y="451" type="line" smooth="yes"/>
+      <point x="263" y="516" type="line" smooth="yes"/>
+      <point x="403" y="451" type="line" smooth="yes"/>
+      <point x="451" y="275" type="line" smooth="yes"/>
+      <point x="451" y="255" type="line" smooth="yes"/>
+      <point x="403" y="79" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="263" y="-6" type="line" smooth="yes"/>
+      <point x="417" y="64" type="line" smooth="yes"/>
+      <point x="471" y="255" type="line" smooth="yes"/>
+      <point x="471" y="275" type="line" smooth="yes"/>
+      <point x="417" y="466" type="line" smooth="yes"/>
+      <point x="263" y="536" type="line" smooth="yes"/>
+      <point x="109" y="466" type="line" smooth="yes"/>
+      <point x="55" y="275" type="line" smooth="yes"/>
+      <point x="55" y="255" type="line" smooth="yes"/>
+      <point x="109" y="64" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

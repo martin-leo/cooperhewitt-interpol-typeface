@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="500"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="351" y="746" type="line" smooth="yes"/>
+      <point x="346" y="720" type="line" smooth="yes"/>
+      <point x="333" y="707" type="line" smooth="yes"/>
+      <point x="315" y="703" type="line" smooth="yes"/>
+      <point x="275" y="717" type="line" smooth="yes"/>
+      <point x="230" y="743" type="line" smooth="yes"/>
+      <point x="175" y="757" type="line" smooth="yes"/>
+      <point x="133" y="746" type="line" smooth="yes"/>
+      <point x="104" y="712" type="line" smooth="yes"/>
+      <point x="94" y="654" type="line" smooth="yes"/>
+      <point x="149" y="654" type="line" smooth="yes"/>
+      <point x="154" y="680" type="line" smooth="yes"/>
+      <point x="167" y="693" type="line" smooth="yes"/>
+      <point x="185" y="697" type="line" smooth="yes"/>
+      <point x="225" y="683" type="line" smooth="yes"/>
+      <point x="270" y="657" type="line" smooth="yes"/>
+      <point x="325" y="643" type="line" smooth="yes"/>
+      <point x="367" y="654" type="line" smooth="yes"/>
+      <point x="396" y="688" type="line" smooth="yes"/>
+      <point x="406" y="746" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

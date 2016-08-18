@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.OP" format="1">
+  <advance width="300"/>
+  <unicode hex="E540"/>
+  <outline>
+    <contour>
+      <point x="93" y="718" type="line" smooth="yes"/>
+      <point x="93" y="642" type="line" smooth="yes"/>
+      <point x="17" y="642" type="line" smooth="yes"/>
+      <point x="17" y="528" type="line" smooth="yes"/>
+      <point x="93" y="528" type="line" smooth="yes"/>
+      <point x="93" y="452" type="line" smooth="yes"/>
+      <point x="207" y="452" type="line" smooth="yes"/>
+      <point x="207" y="528" type="line" smooth="yes"/>
+      <point x="283" y="528" type="line" smooth="yes"/>
+      <point x="283" y="642" type="line" smooth="yes"/>
+      <point x="207" y="642" type="line" smooth="yes"/>
+      <point x="207" y="718" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

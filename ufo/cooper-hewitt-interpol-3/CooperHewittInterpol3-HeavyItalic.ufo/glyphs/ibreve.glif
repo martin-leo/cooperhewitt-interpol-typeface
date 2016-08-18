@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ibreve" format="1">
+  <advance width="280"/>
+  <unicode hex="012D"/>
+  <outline>
+    <contour>
+      <point x="166" y="576" type="line" smooth="yes"/>
+      <point x="261" y="591" type="line" smooth="yes"/>
+      <point x="328" y="634" type="line" smooth="yes"/>
+      <point x="369" y="699" type="line" smooth="yes"/>
+      <point x="388" y="780" type="line" smooth="yes"/>
+      <point x="258" y="780" type="line" smooth="yes"/>
+      <point x="248" y="746" type="line" smooth="yes"/>
+      <point x="231" y="726" type="line" smooth="yes"/>
+      <point x="209" y="717" type="line" smooth="yes"/>
+      <point x="184" y="714" type="line" smooth="yes"/>
+      <point x="160" y="717" type="line" smooth="yes"/>
+      <point x="141" y="726" type="line" smooth="yes"/>
+      <point x="129" y="746" type="line" smooth="yes"/>
+      <point x="128" y="780" type="line" smooth="yes"/>
+      <point x="-2" y="780" type="line" smooth="yes"/>
+      <point x="-4" y="699" type="line" smooth="yes"/>
+      <point x="20" y="634" type="line" smooth="yes"/>
+      <point x="75" y="591" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-1" y="0" type="line" smooth="yes"/>
+      <point x="183" y="0" type="line" smooth="yes"/>
+      <point x="252" y="530" type="line" smooth="yes"/>
+      <point x="68" y="530" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring.cap" format="1">
+  <advance width="500"/>
+  <unicode hex="E42A"/>
+  <outline>
+    <contour>
+      <point x="196" y="864" type="line" smooth="yes"/>
+      <point x="203" y="891" type="line" smooth="yes"/>
+      <point x="223" y="910" type="line" smooth="yes"/>
+      <point x="250" y="918" type="line" smooth="yes"/>
+      <point x="277" y="910" type="line" smooth="yes"/>
+      <point x="297" y="891" type="line" smooth="yes"/>
+      <point x="304" y="864" type="line" smooth="yes"/>
+      <point x="297" y="836" type="line" smooth="yes"/>
+      <point x="277" y="817" type="line" smooth="yes"/>
+      <point x="250" y="809" type="line" smooth="yes"/>
+      <point x="223" y="817" type="line" smooth="yes"/>
+      <point x="203" y="836" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="152" y="864" type="line" smooth="yes"/>
+      <point x="165" y="814" type="line" smooth="yes"/>
+      <point x="201" y="778" type="line" smooth="yes"/>
+      <point x="250" y="765" type="line" smooth="yes"/>
+      <point x="299" y="778" type="line" smooth="yes"/>
+      <point x="335" y="814" type="line" smooth="yes"/>
+      <point x="348" y="864" type="line" smooth="yes"/>
+      <point x="335" y="913" type="line" smooth="yes"/>
+      <point x="299" y="949" type="line" smooth="yes"/>
+      <point x="250" y="962" type="line" smooth="yes"/>
+      <point x="201" y="949" type="line" smooth="yes"/>
+      <point x="165" y="913" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

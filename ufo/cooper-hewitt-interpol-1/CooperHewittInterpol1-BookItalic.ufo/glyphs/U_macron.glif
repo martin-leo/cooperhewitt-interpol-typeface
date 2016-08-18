@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Umacron" format="1">
+  <advance width="639"/>
+  <unicode hex="016A"/>
+  <outline>
+    <contour>
+      <point x="272" y="-11" type="line" smooth="yes"/>
+      <point x="465" y="46" type="line" smooth="yes"/>
+      <point x="552" y="242" type="line" smooth="yes"/>
+      <point x="623" y="780" type="line" smooth="yes"/>
+      <point x="551" y="780" type="line" smooth="yes"/>
+      <point x="481" y="247" type="line" smooth="yes"/>
+      <point x="415" y="96" type="line" smooth="yes"/>
+      <point x="274" y="54" type="line" smooth="yes"/>
+      <point x="147" y="96" type="line" smooth="yes"/>
+      <point x="124" y="247" type="line" smooth="yes"/>
+      <point x="194" y="780" type="line" smooth="yes"/>
+      <point x="122" y="780" type="line" smooth="yes"/>
+      <point x="51" y="242" type="line" smooth="yes"/>
+      <point x="90" y="45" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="271" y="868" type="line" smooth="yes"/>
+      <point x="497" y="868" type="line" smooth="yes"/>
+      <point x="504" y="922" type="line" smooth="yes"/>
+      <point x="278" y="922" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

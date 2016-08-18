@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bdotaccent" format="1">
+  <advance width="506"/>
+  <unicode hex="1E03"/>
+  <outline>
+    <contour>
+      <point x="171" y="915" type="line" smooth="yes"/>
+      <point x="131" y="915" type="line" smooth="yes"/>
+      <point x="126" y="875" type="line" smooth="yes"/>
+      <point x="166" y="875" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="96" y="419" type="line" smooth="yes"/>
+      <point x="166" y="487" type="line" smooth="yes"/>
+      <point x="269" y="516" type="line" smooth="yes"/>
+      <point x="398" y="452" type="line" smooth="yes"/>
+      <point x="422" y="277" type="line" smooth="yes"/>
+      <point x="419" y="253" type="line" smooth="yes"/>
+      <point x="352" y="78" type="line" smooth="yes"/>
+      <point x="208" y="14" type="line" smooth="yes"/>
+      <point x="107" y="45" type="line" smooth="yes"/>
+      <point x="55" y="107" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="146" y="800" type="line" smooth="yes"/>
+      <point x="126" y="800" type="line" smooth="yes"/>
+      <point x="37" y="122" type="line" smooth="yes"/>
+      <point x="16" y="0" type="line" smooth="yes"/>
+      <point x="31" y="0" type="line" smooth="yes"/>
+      <point x="49" y="83" type="line" smooth="yes"/>
+      <point x="104" y="23" type="line" smooth="yes"/>
+      <point x="208" y="-6" type="line" smooth="yes"/>
+      <point x="366" y="63" type="line" smooth="yes"/>
+      <point x="439" y="253" type="line" smooth="yes"/>
+      <point x="442" y="277" type="line" smooth="yes"/>
+      <point x="413" y="467" type="line" smooth="yes"/>
+      <point x="269" y="536" type="line" smooth="yes"/>
+      <point x="164" y="508" type="line" smooth="yes"/>
+      <point x="100" y="450" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

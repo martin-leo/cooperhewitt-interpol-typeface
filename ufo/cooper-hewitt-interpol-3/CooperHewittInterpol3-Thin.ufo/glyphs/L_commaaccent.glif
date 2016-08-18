@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcommaaccent" format="1">
+  <advance width="464"/>
+  <unicode hex="013B"/>
+  <outline>
+    <contour>
+      <point x="285" y="-70" type="line" smooth="yes"/>
+      <point x="245" y="-70" type="line" smooth="yes"/>
+      <point x="245" y="-110" type="line" smooth="yes"/>
+      <point x="265" y="-110" type="line" smooth="yes"/>
+      <point x="261" y="-150" type="line" smooth="yes"/>
+      <point x="251" y="-174" type="line" smooth="yes"/>
+      <point x="234" y="-185" type="line" smooth="yes"/>
+      <point x="210" y="-188" type="line" smooth="yes"/>
+      <point x="210" y="-206" type="line" smooth="yes"/>
+      <point x="243" y="-200" type="line" smooth="yes"/>
+      <point x="267" y="-183" type="line" smooth="yes"/>
+      <point x="280" y="-150" type="line" smooth="yes"/>
+      <point x="285" y="-102" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="450" y="0" type="line" smooth="yes"/>
+      <point x="450" y="20" type="line" smooth="yes"/>
+      <point x="100" y="20" type="line" smooth="yes"/>
+      <point x="100" y="780" type="line" smooth="yes"/>
+      <point x="80" y="780" type="line" smooth="yes"/>
+      <point x="80" y="0" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="interrobangdown.cap" format="1">
+  <advance width="497"/>
+  <unicode hex="E99B"/>
+  <outline>
+    <contour>
+      <point x="137" y="187" type="line" smooth="yes"/>
+      <point x="146" y="231" type="line" smooth="yes"/>
+      <point x="168" y="271" type="line" smooth="yes"/>
+      <point x="198" y="313" type="line" smooth="yes"/>
+      <point x="169" y="133" type="line" smooth="yes"/>
+      <point x="151" y="146" type="line" smooth="yes"/>
+      <point x="140" y="165" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="189" y="613" type="line" smooth="yes"/>
+      <point x="356" y="613" type="line" smooth="yes"/>
+      <point x="378" y="780" type="line" smooth="yes"/>
+      <point x="211" y="780" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-10" y="155" type="line" smooth="yes"/>
+      <point x="8" y="71" type="line" smooth="yes"/>
+      <point x="74" y="10" type="line" smooth="yes"/>
+      <point x="205" y="-13" type="line" smooth="yes"/>
+      <point x="335" y="16" type="line" smooth="yes"/>
+      <point x="418" y="101" type="line" smooth="yes"/>
+      <point x="458" y="241" type="line" smooth="yes"/>
+      <point x="461" y="264" type="line" smooth="yes"/>
+      <point x="317" y="264" type="line" smooth="yes"/>
+      <point x="304" y="202" type="line" smooth="yes"/>
+      <point x="284" y="160" type="line" smooth="yes"/>
+      <point x="255" y="135" type="line" smooth="yes"/>
+      <point x="304" y="552" type="line" smooth="yes"/>
+      <point x="219" y="552" type="line" smooth="yes"/>
+      <point x="148" y="419" type="line" smooth="yes"/>
+      <point x="44" y="311" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

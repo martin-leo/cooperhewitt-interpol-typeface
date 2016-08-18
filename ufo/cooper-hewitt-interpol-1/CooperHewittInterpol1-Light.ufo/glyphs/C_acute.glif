@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cacute" format="1">
+  <advance width="607"/>
+  <unicode hex="0106"/>
+  <outline>
+    <contour>
+      <point x="359" y="950" type="line" smooth="yes"/>
+      <point x="297" y="840" type="line" smooth="yes"/>
+      <point x="339" y="840" type="line" smooth="yes"/>
+      <point x="401" y="950" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="105" y="370" type="line" smooth="yes"/>
+      <point x="105" y="410" type="line" smooth="yes"/>
+      <point x="159" y="673" type="line" smooth="yes"/>
+      <point x="317" y="752" type="line" smooth="yes"/>
+      <point x="323" y="752" type="line" smooth="yes"/>
+      <point x="465" y="694" type="line" smooth="yes"/>
+      <point x="510" y="500" type="line" smooth="yes"/>
+      <point x="552" y="500" type="line" smooth="yes"/>
+      <point x="552" y="525" type="line" smooth="yes"/>
+      <point x="495" y="721" type="line" smooth="yes"/>
+      <point x="318" y="790" type="line" smooth="yes"/>
+      <point x="127" y="701" type="line" smooth="yes"/>
+      <point x="63" y="410" type="line" smooth="yes"/>
+      <point x="63" y="370" type="line" smooth="yes"/>
+      <point x="127" y="79" type="line" smooth="yes"/>
+      <point x="318" y="-10" type="line" smooth="yes"/>
+      <point x="495" y="57" type="line" smooth="yes"/>
+      <point x="552" y="240" type="line" smooth="yes"/>
+      <point x="552" y="250" type="line" smooth="yes"/>
+      <point x="510" y="250" type="line" smooth="yes"/>
+      <point x="466" y="85" type="line" smooth="yes"/>
+      <point x="323" y="28" type="line" smooth="yes"/>
+      <point x="317" y="28" type="line" smooth="yes"/>
+      <point x="158" y="107" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

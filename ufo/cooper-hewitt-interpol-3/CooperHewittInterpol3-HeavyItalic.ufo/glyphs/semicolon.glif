@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+  <advance width="280"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="249" y="485" type="line" smooth="yes"/>
+      <point x="59" y="485" type="line" smooth="yes"/>
+      <point x="34" y="295" type="line" smooth="yes"/>
+      <point x="224" y="295" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="211" y="190" type="line" smooth="yes"/>
+      <point x="21" y="190" type="line" smooth="yes"/>
+      <point x="-4" y="0" type="line" smooth="yes"/>
+      <point x="90" y="0" type="line" smooth="yes"/>
+      <point x="74" y="-26" type="line" smooth="yes"/>
+      <point x="51" y="-45" type="line" smooth="yes"/>
+      <point x="23" y="-56" type="line" smooth="yes"/>
+      <point x="-12" y="-60" type="line" smooth="yes"/>
+      <point x="-24" y="-150" type="line" smooth="yes"/>
+      <point x="60" y="-138" type="line" smooth="yes"/>
+      <point x="124" y="-102" type="line" smooth="yes"/>
+      <point x="168" y="-42" type="line" smooth="yes"/>
+      <point x="191" y="40" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

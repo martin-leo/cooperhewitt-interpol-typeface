@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Utilde" format="1">
+  <advance width="639"/>
+  <unicode hex="0168"/>
+  <outline>
+    <contour>
+      <point x="272" y="-11" type="line" smooth="yes"/>
+      <point x="465" y="46" type="line" smooth="yes"/>
+      <point x="552" y="242" type="line" smooth="yes"/>
+      <point x="623" y="780" type="line" smooth="yes"/>
+      <point x="551" y="780" type="line" smooth="yes"/>
+      <point x="481" y="247" type="line" smooth="yes"/>
+      <point x="415" y="96" type="line" smooth="yes"/>
+      <point x="274" y="54" type="line" smooth="yes"/>
+      <point x="147" y="96" type="line" smooth="yes"/>
+      <point x="124" y="247" type="line" smooth="yes"/>
+      <point x="194" y="780" type="line" smooth="yes"/>
+      <point x="122" y="780" type="line" smooth="yes"/>
+      <point x="51" y="242" type="line" smooth="yes"/>
+      <point x="90" y="45" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="496" y="936" type="line" smooth="yes"/>
+      <point x="481" y="900" type="line" smooth="yes"/>
+      <point x="451" y="889" type="line" smooth="yes"/>
+      <point x="395" y="918" type="line" smooth="yes"/>
+      <point x="323" y="947" type="line" smooth="yes"/>
+      <point x="262" y="925" type="line" smooth="yes"/>
+      <point x="230" y="854" type="line" smooth="yes"/>
+      <point x="278" y="854" type="line" smooth="yes"/>
+      <point x="293" y="890" type="line" smooth="yes"/>
+      <point x="323" y="901" type="line" smooth="yes"/>
+      <point x="380" y="872" type="line" smooth="yes"/>
+      <point x="451" y="843" type="line" smooth="yes"/>
+      <point x="512" y="865" type="line" smooth="yes"/>
+      <point x="544" y="936" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

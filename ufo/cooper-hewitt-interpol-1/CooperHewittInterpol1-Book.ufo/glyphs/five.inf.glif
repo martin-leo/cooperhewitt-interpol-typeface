@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.inf" format="1">
+  <advance width="300"/>
+  <unicode hex="E576"/>
+  <outline>
+    <contour>
+      <point x="22" y="-75" type="line" smooth="yes"/>
+      <point x="22" y="-82" type="line" smooth="yes"/>
+      <point x="54" y="-174" type="line" smooth="yes"/>
+      <point x="150" y="-207" type="line" smooth="yes"/>
+      <point x="243" y="-174" type="line" smooth="yes"/>
+      <point x="277" y="-82" type="line" smooth="yes"/>
+      <point x="277" y="-74" type="line" smooth="yes"/>
+      <point x="244" y="17" type="line" smooth="yes"/>
+      <point x="153" y="50" type="line" smooth="yes"/>
+      <point x="115" y="45" type="line" smooth="yes"/>
+      <point x="82" y="32" type="line" smooth="yes"/>
+      <point x="87" y="137" type="line" smooth="yes"/>
+      <point x="272" y="137" type="line" smooth="yes"/>
+      <point x="272" y="190" type="line" smooth="yes"/>
+      <point x="34" y="190" type="line" smooth="yes"/>
+      <point x="25" y="-26" type="line" smooth="yes"/>
+      <point x="76" y="-43" type="line" smooth="yes"/>
+      <point x="105" y="-12" type="line" smooth="yes"/>
+      <point x="146" y="-2" type="line" smooth="yes"/>
+      <point x="149" y="-2" type="line" smooth="yes"/>
+      <point x="197" y="-19" type="line" smooth="yes"/>
+      <point x="218" y="-74" type="line" smooth="yes"/>
+      <point x="218" y="-82" type="line" smooth="yes"/>
+      <point x="198" y="-137" type="line" smooth="yes"/>
+      <point x="152" y="-154" type="line" smooth="yes"/>
+      <point x="147" y="-154" type="line" smooth="yes"/>
+      <point x="100" y="-136" type="line" smooth="yes"/>
+      <point x="82" y="-75" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

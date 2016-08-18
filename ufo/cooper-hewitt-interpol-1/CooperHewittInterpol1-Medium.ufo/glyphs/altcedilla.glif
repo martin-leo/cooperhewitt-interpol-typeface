@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="altcedilla" format="1">
+  <advance width="602"/>
+  <unicode hex="E416"/>
+  <outline>
+    <contour>
+      <point x="298" y="-126" type="line" smooth="yes"/>
+      <point x="285" y="-148" type="line" smooth="yes"/>
+      <point x="244" y="-155" type="line" smooth="yes"/>
+      <point x="205" y="-150" type="line" smooth="yes"/>
+      <point x="174" y="-139" type="line" smooth="yes"/>
+      <point x="156" y="-191" type="line" smooth="yes"/>
+      <point x="196" y="-207" type="line" smooth="yes"/>
+      <point x="253" y="-213" type="line" smooth="yes"/>
+      <point x="333" y="-193" type="line" smooth="yes"/>
+      <point x="362" y="-131" type="line" smooth="yes"/>
+      <point x="332" y="-68" type="line" smooth="yes"/>
+      <point x="257" y="-49" type="line" smooth="yes"/>
+      <point x="219" y="-52" type="line" smooth="yes"/>
+      <point x="190" y="-59" type="line" smooth="yes"/>
+      <point x="190" y="-105" type="line" smooth="yes"/>
+      <point x="213" y="-100" type="line" smooth="yes"/>
+      <point x="244" y="-97" type="line" smooth="yes"/>
+      <point x="285" y="-104" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

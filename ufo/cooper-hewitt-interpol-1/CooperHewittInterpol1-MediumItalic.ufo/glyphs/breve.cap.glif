@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve.cap" format="1">
+  <advance width="500"/>
+  <unicode hex="E426"/>
+  <outline>
+    <contour>
+      <point x="313" y="827" type="line" smooth="yes"/>
+      <point x="438" y="863" type="line" smooth="yes"/>
+      <point x="485" y="950" type="line" smooth="yes"/>
+      <point x="408" y="950" type="line" smooth="yes"/>
+      <point x="383" y="905" type="line" smooth="yes"/>
+      <point x="315" y="890" type="line" smooth="yes"/>
+      <point x="254" y="906" type="line" smooth="yes"/>
+      <point x="240" y="950" type="line" smooth="yes"/>
+      <point x="167" y="950" type="line" smooth="yes"/>
+      <point x="191" y="863" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

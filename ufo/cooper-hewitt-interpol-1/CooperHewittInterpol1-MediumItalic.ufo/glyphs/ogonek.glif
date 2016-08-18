@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="1">
+  <advance width="602"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="237" y="0" type="line" smooth="yes"/>
+      <point x="219" y="51" type="line" smooth="yes"/>
+      <point x="114" y="-7" type="line" smooth="yes"/>
+      <point x="65" y="-115" type="line" smooth="yes"/>
+      <point x="93" y="-187" type="line" smooth="yes"/>
+      <point x="175" y="-213" type="line" smooth="yes"/>
+      <point x="226" y="-207" type="line" smooth="yes"/>
+      <point x="267" y="-191" type="line" smooth="yes"/>
+      <point x="251" y="-123" type="line" smooth="yes"/>
+      <point x="226" y="-132" type="line" smooth="yes"/>
+      <point x="190" y="-136" type="line" smooth="yes"/>
+      <point x="160" y="-124" type="line" smooth="yes"/>
+      <point x="149" y="-95" type="line" smooth="yes"/>
+      <point x="178" y="-34" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

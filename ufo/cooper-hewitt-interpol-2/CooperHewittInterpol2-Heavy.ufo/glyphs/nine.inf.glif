@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.inf" format="1">
+  <advance width="300"/>
+  <unicode hex="E57A"/>
+  <outline>
+    <contour>
+      <point x="144" y="83" type="line" smooth="yes"/>
+      <point x="148" y="89" type="line" smooth="yes"/>
+      <point x="154" y="89" type="line" smooth="yes"/>
+      <point x="158" y="83" type="line" smooth="yes"/>
+      <point x="158" y="58" type="line" smooth="yes"/>
+      <point x="154" y="52" type="line" smooth="yes"/>
+      <point x="148" y="52" type="line" smooth="yes"/>
+      <point x="144" y="58" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="33" y="-209" type="line" smooth="yes"/>
+      <point x="109" y="-205" type="line" smooth="yes"/>
+      <point x="176" y="-186" type="line" smooth="yes"/>
+      <point x="233" y="-143" type="line" smooth="yes"/>
+      <point x="266" y="-88" type="line" smooth="yes"/>
+      <point x="284" y="-25" type="line" smooth="yes"/>
+      <point x="289" y="39" type="line" smooth="yes"/>
+      <point x="289" y="47" type="line" smooth="yes"/>
+      <point x="275" y="123" type="line" smooth="yes"/>
+      <point x="232" y="177" type="line" smooth="yes"/>
+      <point x="152" y="198" type="line" smooth="yes"/>
+      <point x="71" y="181" type="line" smooth="yes"/>
+      <point x="27" y="135" type="line" smooth="yes"/>
+      <point x="13" y="71" type="line" smooth="yes"/>
+      <point x="13" y="61" type="line" smooth="yes"/>
+      <point x="24" y="-1" type="line" smooth="yes"/>
+      <point x="55" y="-42" type="line" smooth="yes"/>
+      <point x="106" y="-57" type="line" smooth="yes"/>
+      <point x="122" y="-56" type="line" smooth="yes"/>
+      <point x="140" y="-51" type="line" smooth="yes"/>
+      <point x="154" y="-44" type="line" smooth="yes"/>
+      <point x="149" y="-55" type="line" smooth="yes"/>
+      <point x="142" y="-65" type="line" smooth="yes"/>
+      <point x="133" y="-73" type="line" smooth="yes"/>
+      <point x="108" y="-85" type="line" smooth="yes"/>
+      <point x="74" y="-91" type="line" smooth="yes"/>
+      <point x="33" y="-93" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

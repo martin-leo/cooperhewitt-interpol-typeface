@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft.cap" format="1">
+  <advance width="365"/>
+  <unicode hex="E491"/>
+  <outline>
+    <contour>
+      <point x="45" y="380" type="line" smooth="yes"/>
+      <point x="54" y="258" type="line" smooth="yes"/>
+      <point x="80" y="155" type="line" smooth="yes"/>
+      <point x="118" y="69" type="line" smooth="yes"/>
+      <point x="164" y="0" type="line" smooth="yes"/>
+      <point x="328" y="0" type="line" smooth="yes"/>
+      <point x="284" y="72" type="line" smooth="yes"/>
+      <point x="244" y="162" type="line" smooth="yes"/>
+      <point x="214" y="265" type="line" smooth="yes"/>
+      <point x="203" y="380" type="line" smooth="yes"/>
+      <point x="203" y="400" type="line" smooth="yes"/>
+      <point x="214" y="515" type="line" smooth="yes"/>
+      <point x="244" y="619" type="line" smooth="yes"/>
+      <point x="284" y="708" type="line" smooth="yes"/>
+      <point x="328" y="780" type="line" smooth="yes"/>
+      <point x="164" y="780" type="line" smooth="yes"/>
+      <point x="118" y="711" type="line" smooth="yes"/>
+      <point x="80" y="625" type="line" smooth="yes"/>
+      <point x="54" y="522" type="line" smooth="yes"/>
+      <point x="45" y="400" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

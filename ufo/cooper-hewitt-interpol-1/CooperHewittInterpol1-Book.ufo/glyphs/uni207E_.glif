@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni207E" format="1">
+  <advance width="171"/>
+  <unicode hex="207E"/>
+  <outline>
+    <contour>
+      <point x="145" y="590" type="line" smooth="yes"/>
+      <point x="128" y="699" type="line" smooth="yes"/>
+      <point x="85" y="780" type="line" smooth="yes"/>
+      <point x="24" y="780" type="line" smooth="yes"/>
+      <point x="66" y="697" type="line" smooth="yes"/>
+      <point x="86" y="590" type="line" smooth="yes"/>
+      <point x="86" y="580" type="line" smooth="yes"/>
+      <point x="66" y="473" type="line" smooth="yes"/>
+      <point x="24" y="390" type="line" smooth="yes"/>
+      <point x="85" y="390" type="line" smooth="yes"/>
+      <point x="128" y="470" type="line" smooth="yes"/>
+      <point x="145" y="580" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

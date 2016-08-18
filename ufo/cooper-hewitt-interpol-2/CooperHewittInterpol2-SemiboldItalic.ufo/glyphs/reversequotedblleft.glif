@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reversequotedblleft" format="1">
+  <advance width="445"/>
+  <unicode hex="201F"/>
+  <outline>
+    <contour>
+      <point x="291" y="780" type="line" smooth="yes"/>
+      <point x="275" y="663" type="line" smooth="yes"/>
+      <point x="280" y="574" type="line" smooth="yes"/>
+      <point x="325" y="521" type="line" smooth="yes"/>
+      <point x="408" y="503" type="line" smooth="yes"/>
+      <point x="417" y="571" type="line" smooth="yes"/>
+      <point x="376" y="577" type="line" smooth="yes"/>
+      <point x="352" y="597" type="line" smooth="yes"/>
+      <point x="343" y="639" type="line" smooth="yes"/>
+      <point x="414" y="639" type="line" smooth="yes"/>
+      <point x="433" y="780" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="96" y="780" type="line" smooth="yes"/>
+      <point x="80" y="663" type="line" smooth="yes"/>
+      <point x="85" y="574" type="line" smooth="yes"/>
+      <point x="130" y="521" type="line" smooth="yes"/>
+      <point x="213" y="503" type="line" smooth="yes"/>
+      <point x="222" y="571" type="line" smooth="yes"/>
+      <point x="181" y="577" type="line" smooth="yes"/>
+      <point x="157" y="597" type="line" smooth="yes"/>
+      <point x="148" y="639" type="line" smooth="yes"/>
+      <point x="219" y="639" type="line" smooth="yes"/>
+      <point x="238" y="780" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

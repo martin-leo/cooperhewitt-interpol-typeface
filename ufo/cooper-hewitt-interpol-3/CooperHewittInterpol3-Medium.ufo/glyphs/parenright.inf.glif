@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright.inf" format="1">
+  <advance width="185"/>
+  <unicode hex="E57F"/>
+  <outline>
+    <contour>
+      <point x="163" y="0" type="line" smooth="yes"/>
+      <point x="158" y="61" type="line" smooth="yes"/>
+      <point x="145" y="113" type="line" smooth="yes"/>
+      <point x="126" y="156" type="line" smooth="yes"/>
+      <point x="103" y="190" type="line" smooth="yes"/>
+      <point x="17" y="190" type="line" smooth="yes"/>
+      <point x="39" y="154" type="line" smooth="yes"/>
+      <point x="59" y="109" type="line" smooth="yes"/>
+      <point x="74" y="58" type="line" smooth="yes"/>
+      <point x="80" y="0" type="line" smooth="yes"/>
+      <point x="80" y="-10" type="line" smooth="yes"/>
+      <point x="74" y="-68" type="line" smooth="yes"/>
+      <point x="59" y="-120" type="line" smooth="yes"/>
+      <point x="39" y="-164" type="line" smooth="yes"/>
+      <point x="17" y="-200" type="line" smooth="yes"/>
+      <point x="103" y="-200" type="line" smooth="yes"/>
+      <point x="126" y="-166" type="line" smooth="yes"/>
+      <point x="145" y="-123" type="line" smooth="yes"/>
+      <point x="158" y="-71" type="line" smooth="yes"/>
+      <point x="163" y="-10" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

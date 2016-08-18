@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="1">
+  <advance width="440"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <contour>
+      <point x="270" y="530" type="line" smooth="yes"/>
+      <point x="210" y="530" type="line" smooth="yes"/>
+      <point x="203" y="470" type="line" smooth="yes"/>
+      <point x="263" y="470" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="142" y="-172" type="line" smooth="yes"/>
+      <point x="46" y="-140" type="line" smooth="yes"/>
+      <point x="18" y="-50" type="line" smooth="yes"/>
+      <point x="116" y="141" type="line" smooth="yes"/>
+      <point x="229" y="355" type="line" smooth="yes"/>
+      <point x="205" y="355" type="line" smooth="yes"/>
+      <point x="78" y="153" type="line" smooth="yes"/>
+      <point x="-24" y="-60" type="line" smooth="yes"/>
+      <point x="15" y="-168" type="line" smooth="yes"/>
+      <point x="142" y="-210" type="line" smooth="yes"/>
+      <point x="298" y="-145" type="line" smooth="yes"/>
+      <point x="368" y="47" type="line" smooth="yes"/>
+      <point x="370" y="60" type="line" smooth="yes"/>
+      <point x="330" y="60" type="line" smooth="yes"/>
+      <point x="271" y="-113" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

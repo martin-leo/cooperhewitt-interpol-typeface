@@ -1,0 +1,114 @@
+
+# GPOS 
+
+
+lookup kernCrnagehorizontaldansLatinlo {
+  lookupflag 0;
+    pos \Q \X -17;
+    pos \V \x -34;
+    pos \V \v -34;
+    pos \V \q -50;
+    pos \V \oe -50;
+    pos \V \ae -54;
+    pos \X \x -24;
+    pos \X \v -48;
+    pos \X \q -24;
+    pos \X \oe -24;
+    pos \X \ae -24;
+    pos \X \Q -20;
+    pos \germandbls \v -12;
+    pos \space \v -12;
+    pos \space \V -17;
+    pos \v \q -12;
+    pos \v \germandbls -12;
+    pos \x \q -17;
+} kernCrnagehorizontaldansLatinlo;
+
+feature kern {
+
+  script latn;
+     language dflt ;
+      lookup kernCrnagehorizontaldansLatinlo;
+} kern;
+
+@GDEF_Simple = [\A \AE \Aacute \Abreve \Acircumflex \Adieresis \Agrave \Amacron 
+	\Anocross \Aogonek \Aring \Atilde \B \Bdotaccent \C \Cacute \Ccaron \Ccedilla 
+	\Ccircumflex \Cdotaccent \D \Dcaron \Dcroat \Ddotaccent \E \Eacute \Ebreve 
+	\Ecaron \Ecircumflex \Edieresis \Edotaccent \Egrave \Emacron \Eng \Eogonek 
+	\Eszett \Eth \Euro \F \Fdotaccent \G \Gbreve \Gcircumflex \Gcommaaccent 
+	\Gdotaccent \H \Hbar \Hcircumflex \I \IJ \Iacute \Ibreve \Icircumflex \Idieresis 
+	\Idotaccent \Igrave \Imacron \Iogonek \Itilde \J \Jcircumflex \K \Kcommaaccent \L 
+	\Lacute \Lcaron \Lcommaaccent \Ldot \Lslash \M \Mdotaccent \N \Nacute \Ncaron 
+	\Ncommaaccent \Ntilde \O \OE \Oacute \Obreve \Ocircumflex \Odieresis \Ograve 
+	\Ohungarumlaut \Omacron \Oslash \Otilde \P \Pdotaccent \Q \R \Racute \Rcaron 
+	\Rcommaaccent \S \Sacute \Scaron \Scedilla \Scircumflex \Scommaaccent \T \Tbar 
+	\Tcaron \Tcommaaccent \Tdotaccent \Thorn \U \Uacute \Ubreve \Ucircumflex 
+	\Udieresis \Ugrave \Uhungarumlaut \Umacron \Uogonek \Uring \Utilde \V \W \Wacute 
+	\Wcircumflex \Wdieresis \Wgrave \X \Y \Yacute \Ycircumflex \Ydieresis \Ygrave 
+	\Ymacron \Z \Zacute \Zcaron \Zdotaccent \a \aacute \abreve \acircumflex \acute 
+	\acute.cap \adieresis \ae \agrave \altcedilla \amacron \ampersand 
+	\anglebracketleft \anglebracketleft.cap \anglebracketright 
+	\anglebracketright.cap \aogonek \approxequal \aring \arrowdown \arrowleft 
+	\arrowright \arrowup \asciicircum \asciitilde \asterisk \at \at.cap \atilde \b 
+	\backslash \backslash.cap \ballotboxwithx \bar \bar.cap \bdotaccent 
+	\blackcircle \blacksmallsquare \blacksquare \braceleft \braceleft.cap 
+	\braceright \braceright.cap \bracketleft \bracketleft.cap \bracketright 
+	\bracketright.cap \breve \breve.cap \brokenbar \brokenbar.cap \bullet 
+	\bullet.cap \c \cacute \caron \caron.cap \caronSlovak \ccaron \ccedilla 
+	\ccircumflex \cdotaccent \cedilla \cent \circumflex \circumflex.cap \club 
+	\colon \colon.T \comma \comma.T \commaaccent \commaaccent.cap \copyright \d 
+	\dagger \daggerdbl \dcaron \dcroat \ddotaccent \degree \diamond \dieresis 
+	\dieresis.cap \divide \dollar \dotaccent \dotaccent.cap \dotbelow \dotlessi 
+	\dotlessj \doublebar \doublebar.cap \doublegrave \doublegrave.cap \e \eacute 
+	\ebreve \ecaron \ecircumflex \edieresis \edotaccent \egrave \eight \eight.inf 
+	\elevensixteenths \ellipsis \emacron \emdash \emdash.cap \emspace \endash 
+	\endash.cap \eng \enspace \eogonek \equal \equal.inf \equivalence \eth \exclam 
+	\exclamdown \exclamdown.cap \f \fdotaccent \fi \fifteensixteenths \figuredash 
+	\figuredash.cap \figurespace \five \five.inf \fivesixteenths \fl \four 
+	\four.inf \fourperemspace \fraction \g \gbreve \gcircumflex \gcommaaccent 
+	\gdotaccent \germandbls \grave \grave.cap \greater \greaterequal 
+	\guillemotleft \guillemotleft.cap \guillemotright \guillemotright.cap 
+	\guilsinglleft \guilsinglleft.cap \guilsinglright \guilsinglright.cap \h 
+	\hairspace \hbar \hcircumflex \heart \house \hungarumlaut \hungarumlaut.cap 
+	\hyphen \hyphen.cap \i \iacute \ibreve \icircumflex \idieresis \idotaccent 
+	\igrave \ij \imacron \interrobang \interrobangdown \interrobangdown.cap 
+	\invertedbreve \invertedbreve.cap \iogonek \itilde \j \jcircumflex \k 
+	\kcommaaccent \kgreenlandic \l \lacute \lcaron \lcommaaccent \ldot \less 
+	\lessequal \logicalnot \lowline \lslash \m \macron \macron.cap \mdotaccent 
+	\mediumblackcircle \mediumwhitecircle \minus \minus.inf \multiply \n \nacute 
+	\nbspace \ncaron \ncommaaccent \nine \nine.inf \ninesixteenths \notequal 
+	\ntilde \numbersign \numero \o \oacute \obreve \ocircumflex \odieresis \oe 
+	\ogonek \ograve \ohungarumlaut \omacron \one \one.inf \onehalf \onequarter 
+	\onesixteenth \onesuperior \onethirdemdash \onethirdemdash.cap \ordfeminine 
+	\ordmasculine \oslash \otilde \p \paragraph \parenleft \parenleft.cap 
+	\parenleft.inf \parenright \parenright.cap \parenright.inf \pdotaccent 
+	\percent \period \period.T \periodcentered \periodcentered.cap \perthousand 
+	\plus \plus.inf \plusminus \published \punctuationspace \q \question 
+	\questiondown \questiondown.cap \quotedbl \quotedblbase \quotedblleft 
+	\quotedblright \quoteleft \quoteright \quotesinglbase \quotesingle \r \racute 
+	\rcaron \rcommaaccent \registered \registered.cap \reversequotedblleft 
+	\reversequoteleft \ring \ring.cap \ruble \s \sacute \scaron \scedilla 
+	\scircumflex \scommaaccent \section \semicolon \semicolon.T \servicemark 
+	\seven \seven.inf \sevensixteenths \six \six.inf \sixperemspace \slash 
+	\slash.cap \space \spade \squaremultiply \sterling \t \tbar \tcaron 
+	\tcommaaccent \tdotaccent \thinspace \thirteensixteenths \thorn \three 
+	\three.inf \threeperemspace \threequarteremdash \threequarteremdash.cap 
+	\threequarters \threesixteenths \threesuperior \tilde \tilde.cap \trademark 
+	\triagdn \triaglf \triagrt \triagup \tripleprime \two \two.inf \twosuperior \u 
+	\uacute \ubreve \ucircumflex \udieresis \ugrave \uhungarumlaut \umacron 
+	\underscore \underscoremonospace \uni00AD \uni2015 \uni2015.cap \uni2070 
+	\uni2074 \uni2075 \uni2076 \uni2077 \uni2078 \uni2079 \uni207A \uni207B \uni207C 
+	\uni207D \uni207E \uni2080 \uni2081 \uni2082 \uni2083 \uni2084 \uni2085 \uni2086 
+	\uni2087 \uni2088 \uni2089 \uni208A \uni208B \uni208C \uni208D \uni208E \uni2153 
+	\uni2154 \uni2155 \uni2156 \uni2157 \uni2158 \uni2159 \uni215A \uni215B \uni215C 
+	\uni215D \uni215E \uni215F \uni2196 \uni2197 \uni2198 \uni2199 \uni25E2 \uni25E3 
+	\uni25E4 \uni25E5 \uni2605 \uni263C \uni263E \uni267B \uni267C \uni267D \uogonek 
+	\uring \utilde \v \w \wacute \wcircumflex \wdieresis \wgrave \whitecircle 
+	\whitesmallsquare \whitesquare \x \y \yacute \ycircumflex \ydieresis \yen 
+	\ygrave \ymacron \z \zacute \zcaron \zdotaccent \zero \zero.inf \zerowidthspace ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+

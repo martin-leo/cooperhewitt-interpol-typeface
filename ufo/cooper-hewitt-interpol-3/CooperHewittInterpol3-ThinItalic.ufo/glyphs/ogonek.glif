@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="1">
+  <advance width="602"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="250" y="-170" type="line" smooth="yes"/>
+      <point x="236" y="-176" type="line" smooth="yes"/>
+      <point x="219" y="-182" type="line" smooth="yes"/>
+      <point x="199" y="-186" type="line" smooth="yes"/>
+      <point x="175" y="-188" type="line" smooth="yes"/>
+      <point x="150" y="-185" type="line" smooth="yes"/>
+      <point x="130" y="-175" type="line" smooth="yes"/>
+      <point x="116" y="-157" type="line" smooth="yes"/>
+      <point x="111" y="-129" type="line" smooth="yes"/>
+      <point x="123" y="-77" type="line" smooth="yes"/>
+      <point x="154" y="-40" type="line" smooth="yes"/>
+      <point x="195" y="-16" type="line" smooth="yes"/>
+      <point x="235" y="0" type="line" smooth="yes"/>
+      <point x="230" y="16" type="line" smooth="yes"/>
+      <point x="182" y="-3" type="line" smooth="yes"/>
+      <point x="138" y="-31" type="line" smooth="yes"/>
+      <point x="105" y="-72" type="line" smooth="yes"/>
+      <point x="93" y="-129" type="line" smooth="yes"/>
+      <point x="99" y="-163" type="line" smooth="yes"/>
+      <point x="117" y="-187" type="line" smooth="yes"/>
+      <point x="143" y="-201" type="line" smooth="yes"/>
+      <point x="175" y="-206" type="line" smooth="yes"/>
+      <point x="201" y="-204" type="line" smooth="yes"/>
+      <point x="222" y="-200" type="line" smooth="yes"/>
+      <point x="239" y="-194" type="line" smooth="yes"/>
+      <point x="254" y="-187" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

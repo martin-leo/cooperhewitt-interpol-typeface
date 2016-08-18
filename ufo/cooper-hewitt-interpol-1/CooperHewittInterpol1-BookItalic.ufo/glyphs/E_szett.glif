@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eszett" format="1">
+  <advance width="754"/>
+  <unicode hex="1E9E"/>
+  <outline>
+    <contour>
+      <point x="314" y="438" type="line" smooth="yes"/>
+      <point x="308" y="390" type="line" smooth="yes"/>
+      <point x="459" y="371" type="line" smooth="yes"/>
+      <point x="593" y="320" type="line" smooth="yes"/>
+      <point x="625" y="205" type="line" smooth="yes"/>
+      <point x="623" y="190" type="line" smooth="yes"/>
+      <point x="564" y="87" type="line" smooth="yes"/>
+      <point x="455" y="54" type="line" smooth="yes"/>
+      <point x="445" y="54" type="line" smooth="yes"/>
+      <point x="334" y="100" type="line" smooth="yes"/>
+      <point x="312" y="254" type="line" smooth="yes"/>
+      <point x="240" y="254" type="line" smooth="yes"/>
+      <point x="238" y="240" type="line" smooth="yes"/>
+      <point x="276" y="55" type="line" smooth="yes"/>
+      <point x="447" y="-11" type="line" smooth="yes"/>
+      <point x="612" y="38" type="line" smooth="yes"/>
+      <point x="696" y="188" type="line" smooth="yes"/>
+      <point x="699" y="208" type="line" smooth="yes"/>
+      <point x="656" y="360" type="line" smooth="yes"/>
+      <point x="486" y="434" type="line" smooth="yes"/>
+      <point x="398" y="445" type="line" smooth="yes"/>
+      <point x="584" y="706" type="line" smooth="yes"/>
+      <point x="590" y="751" type="line" smooth="yes"/>
+      <point x="507" y="782" type="line" smooth="yes"/>
+      <point x="401" y="791" type="line" smooth="yes"/>
+      <point x="189" y="734" type="line" smooth="yes"/>
+      <point x="91" y="538" type="line" smooth="yes"/>
+      <point x="20" y="0" type="line" smooth="yes"/>
+      <point x="92" y="0" type="line" smooth="yes"/>
+      <point x="162" y="533" type="line" smooth="yes"/>
+      <point x="239" y="684" type="line" smooth="yes"/>
+      <point x="399" y="726" type="line" smooth="yes"/>
+      <point x="458" y="723" type="line" smooth="yes"/>
+      <point x="508" y="711" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft" format="1">
+  <advance width="300"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="65" y="350" type="line" smooth="yes"/>
+      <point x="88" y="149" type="line" smooth="yes"/>
+      <point x="147" y="-1" type="line" smooth="yes"/>
+      <point x="227" y="-120" type="line" smooth="yes"/>
+      <point x="250" y="-120" type="line" smooth="yes"/>
+      <point x="165" y="6" type="line" smooth="yes"/>
+      <point x="107" y="157" type="line" smooth="yes"/>
+      <point x="85" y="350" type="line" smooth="yes"/>
+      <point x="85" y="370" type="line" smooth="yes"/>
+      <point x="107" y="563" type="line" smooth="yes"/>
+      <point x="165" y="714" type="line" smooth="yes"/>
+      <point x="250" y="840" type="line" smooth="yes"/>
+      <point x="227" y="840" type="line" smooth="yes"/>
+      <point x="147" y="721" type="line" smooth="yes"/>
+      <point x="88" y="571" type="line" smooth="yes"/>
+      <point x="65" y="370" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring" format="1">
+  <advance width="590"/>
+  <unicode hex="00C5"/>
+  <outline>
+    <contour>
+      <point x="367" y="956" type="line" smooth="yes"/>
+      <point x="301" y="929" type="line" smooth="yes"/>
+      <point x="272" y="862" type="line" smooth="yes"/>
+      <point x="290" y="809" type="line" smooth="yes"/>
+      <point x="338" y="785" type="line" smooth="yes"/>
+      <point x="-14" y="0" type="line" smooth="yes"/>
+      <point x="8" y="0" type="line" smooth="yes"/>
+      <point x="110" y="230" type="line" smooth="yes"/>
+      <point x="444" y="230" type="line" smooth="yes"/>
+      <point x="486" y="0" type="line" smooth="yes"/>
+      <point x="506" y="0" type="line" smooth="yes"/>
+      <point x="361" y="784" type="line" smooth="yes"/>
+      <point x="421" y="815" type="line" smooth="yes"/>
+      <point x="447" y="878" type="line" smooth="yes"/>
+      <point x="425" y="935" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="367" y="938" type="line" smooth="yes"/>
+      <point x="411" y="923" type="line" smooth="yes"/>
+      <point x="428" y="878" type="line" smooth="yes"/>
+      <point x="406" y="823" type="line" smooth="yes"/>
+      <point x="352" y="802" type="line" smooth="yes"/>
+      <point x="308" y="817" type="line" smooth="yes"/>
+      <point x="291" y="862" type="line" smooth="yes"/>
+      <point x="313" y="917" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="347" y="760" type="line" smooth="yes"/>
+      <point x="440" y="250" type="line" smooth="yes"/>
+      <point x="119" y="250" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

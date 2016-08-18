@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcircumflex" format="1">
+  <advance width="266"/>
+  <unicode hex="0135"/>
+  <outline>
+    <contour>
+      <point x="61" y="596" type="line" smooth="yes"/>
+      <point x="133" y="678" type="line" smooth="yes"/>
+      <point x="205" y="596" type="line" smooth="yes"/>
+      <point x="343" y="596" type="line" smooth="yes"/>
+      <point x="209" y="780" type="line" smooth="yes"/>
+      <point x="57" y="780" type="line" smooth="yes"/>
+      <point x="-77" y="596" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="54" y="1" type="line" smooth="yes"/>
+      <point x="33" y="-63" type="line" smooth="yes"/>
+      <point x="-24" y="-78" type="line" smooth="yes"/>
+      <point x="-53" y="-75" type="line" smooth="yes"/>
+      <point x="-73" y="-71" type="line" smooth="yes"/>
+      <point x="-73" y="-200" type="line" smooth="yes"/>
+      <point x="-45" y="-208" type="line" smooth="yes"/>
+      <point x="13" y="-213" type="line" smooth="yes"/>
+      <point x="156" y="-169" type="line" smooth="yes"/>
+      <point x="211" y="-16" type="line" smooth="yes"/>
+      <point x="211" y="530" type="line" smooth="yes"/>
+      <point x="54" y="530" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

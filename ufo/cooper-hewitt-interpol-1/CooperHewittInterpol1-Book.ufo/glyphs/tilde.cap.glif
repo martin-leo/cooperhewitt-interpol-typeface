@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde.cap" format="1">
+  <advance width="500"/>
+  <unicode hex="E424"/>
+  <outline>
+    <contour>
+      <point x="352" y="936" type="line" smooth="yes"/>
+      <point x="341" y="902" type="line" smooth="yes"/>
+      <point x="315" y="893" type="line" smooth="yes"/>
+      <point x="255" y="920" type="line" smooth="yes"/>
+      <point x="177" y="947" type="line" smooth="yes"/>
+      <point x="120" y="925" type="line" smooth="yes"/>
+      <point x="98" y="854" type="line" smooth="yes"/>
+      <point x="148" y="854" type="line" smooth="yes"/>
+      <point x="159" y="888" type="line" smooth="yes"/>
+      <point x="185" y="897" type="line" smooth="yes"/>
+      <point x="245" y="870" type="line" smooth="yes"/>
+      <point x="323" y="843" type="line" smooth="yes"/>
+      <point x="380" y="865" type="line" smooth="yes"/>
+      <point x="402" y="936" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

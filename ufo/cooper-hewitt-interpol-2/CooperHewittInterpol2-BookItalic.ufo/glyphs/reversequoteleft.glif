@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reversequoteleft" format="1">
+  <advance width="217"/>
+  <unicode hex="201B"/>
+  <outline>
+    <contour>
+      <point x="116" y="780" type="line" smooth="yes"/>
+      <point x="106" y="706" type="line" smooth="yes"/>
+      <point x="110" y="631" type="line" smooth="yes"/>
+      <point x="143" y="586" type="line" smooth="yes"/>
+      <point x="201" y="571" type="line" smooth="yes"/>
+      <point x="207" y="614" type="line" smooth="yes"/>
+      <point x="171" y="621" type="line" smooth="yes"/>
+      <point x="149" y="645" type="line" smooth="yes"/>
+      <point x="146" y="690" type="line" smooth="yes"/>
+      <point x="194" y="690" type="line" smooth="yes"/>
+      <point x="206" y="780" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
